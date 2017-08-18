@@ -1,0 +1,5 @@
+- cmd: SIPSignalingGroup 1
+- cmd: show -a
+- cmd: SIPSignalingGroup 2
+- cmd: show -a
+

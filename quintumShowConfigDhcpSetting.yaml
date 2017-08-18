@@ -1,0 +1,3 @@
+- cmd: EthernetInterface SL1DV1EI1
+- cmd: show -a
+

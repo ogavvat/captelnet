@@ -1,0 +1,4 @@
+- cmd: DNSServer 1
+- cmd: show -a
+  savefile: showdns.log
+

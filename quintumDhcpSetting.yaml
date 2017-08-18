@@ -1,0 +1,6 @@
+- cmd: config
+- cmd: EthernetInterface SL1DV1EI1
+- cmd: set DHCPEnabled 1
+  wait: 1
+- cmd: submit
+

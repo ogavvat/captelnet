@@ -1,0 +1,7 @@
+- cmd: config
+- cmd: TimeServer 1
+- cmd: set UTCOffset 9:00
+- cmd: set PrimaryServerIPAddr 0.jp.pool.ntp.org
+- cmd: set SecondaryServerIPAddr 1.jp.pool.ntp.org
+- cmd: submit
+

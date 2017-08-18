@@ -1,0 +1,3 @@
+- cmd: mc
+- cmd: calls
+  wait: 1

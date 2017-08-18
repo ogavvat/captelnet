@@ -1,0 +1,9 @@
+- cmd: config
+- cmd: DNSServer 1
+- cmd: set UseConfiguredDNSServers 1
+  wait: 1
+- cmd: set PrimaryServerIPAddr 8.8.8.8
+- cmd: set SecondaryServerIPAddr 8.8.4.4
+  wait: 1
+- cmd: submit
+

@@ -1,0 +1,9 @@
+- cmd: "mc"
+- cmd: maint
+  wait: 1
+- cmd: "reset"
+  waitfor: "Yes/No"
+- cmd: "yes"
+  waitfor: "Resetting the MasterChassis"
+
+

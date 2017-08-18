@@ -1,0 +1,4 @@
+- cmd: TimeServer 1
+- cmd: show -a
+  savefile: showtimeserver.log
+

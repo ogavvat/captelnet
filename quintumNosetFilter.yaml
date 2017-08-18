@@ -1,0 +1,7 @@
+- cmd: config
+- cmd: ei 1
+- cmd: set FilterIPDirAttached[1]
+- cmd: set FilterIPDirAttached[2]
+- cmd: set FilterIPDirAttached[3]
+- cmd: submit
+

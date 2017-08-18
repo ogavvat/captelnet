@@ -1,0 +1,13 @@
+- host: quintum1.example.com
+  user: admin
+  password: password1
+- host: quintum2.example.com
+  user: admin
+  password: password2
+- host: 123.45.67.89
+  user: admin
+  password: password3
+- host: 111.222.33.44
+  user: admin
+  password: password4
+
